@@ -45,5 +45,24 @@ li {
 }
 
 .pizza {
-    width: 50px;
+    width: 50%;
 }
+
+a {
+    color: white;
+}
+
+/* Cake Page */
+
+.cake-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.section-one {
+    border: 1px solid white;
+    background-color: darkslateblue;
+}
+
